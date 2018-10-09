@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\bin\Debug\ListaProdutos.exe.config
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\bin\Debug\ListaProdutos.exe
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\bin\Debug\ListaProdutos.pdb
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.Form1.resources
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.Properties.Resources.resources
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.exe
+C:\Users\lucas\source\repos\ListaProdutos\ListaProdutos\obj\Debug\ListaProdutos.pdb
